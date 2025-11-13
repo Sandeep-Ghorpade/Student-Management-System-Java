@@ -1,2 +1,3 @@
-# Student-Management-System-Java
-"A Java-based mini DBMS that manages student records using in-memory data structures. Supports insert, delete, update, search, backup, restore, and statistical operations."
+A simple console-based Student Database Management System (DBMS) built using Java.
+This project allows you to store, manage, and analyze student records using in-memory data structures.
+It works like a mini database with backup and restore support.
